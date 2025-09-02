@@ -10,4 +10,5 @@ restituisce le informazioni.
 
 Esempio di funzionamento:
 
-<img width="1917" height="1017" alt="Esempio" src="https://github.com/user-attachments/assets/5320b2c0-c2f0-41eb-84c7-40b4678f28de" />
+<img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/a7019c4f-e9cf-4cc0-961c-15257ba1a876" />
+
