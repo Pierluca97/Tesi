@@ -1,6 +1,6 @@
 Per questo progetto sto utilizzando l'ambiente di sviluppo in PyCharm con un virtual environment dedicato e 
 integrando Ollama. Sto utilizzando Lllama 3.2 per comprendere domande in linguaggio naturale. Ho registrato la
-mia chiave API di Europeana e l'ho gestitat tramite file .env per mantenerla separata dal codice.
+mia chiave API di Europeana e l'ho gestita tramite file .env per mantenerla separata dal codice.
 Ho realizzato uno script in Python che permette di interrogare Europeana in maniera dinamica, l'utente può
 scrivere il nome di un artista o di una persone e ottenere come risposta una lista di risultati che contengono
 titolo, anno, descrizione e link diretto alla fonte. Al momento ho due moduli principali: uno che si occupa
