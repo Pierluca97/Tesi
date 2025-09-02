@@ -6,3 +6,8 @@ scrivere il nome di un artista o di una persone e ottenere come risposta una lis
 titolo, anno, descrizione e link diretto alla fonte. Al momento ho due moduli principali: uno che si occupa
 di interpretare la domanda dell'utente con Ollama ed estrarre il soggetto, e uno che interroga Europeana e 
 restituisce le informazioni. 
+
+
+Esempio di funzionamento:
+
+<img width="1917" height="1017" alt="Esempio" src="https://github.com/user-attachments/assets/5320b2c0-c2f0-41eb-84c7-40b4678f28de" />
